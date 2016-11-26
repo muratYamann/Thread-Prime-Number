@@ -1,2 +1,3 @@
 # Thread-Prime-Number
-Prime number finder with thread
+
+  Prime number finder with thread 
